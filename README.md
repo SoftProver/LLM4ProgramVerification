@@ -30,6 +30,13 @@
 
 ## Loop invariant
  - Towards General Loop Invariant Generation: A Benchmark of Programs with Memory Manipulation. NeurIPS 2024.
-
+ - LLM Meets Bounded Model Checking: Neuro-symbolic Loop Invariant Inference. ASE 2024.
+ - Can large language models reason about program invariants? ICML 2023.
+ - Ranking LLM-Generated Loop Invariants for Program Verification. ACL 2023.
+ - Code2Inv: A Deep Learning Framework for Program Verification. CAV 2020.
+ - Learning nonlinear loop invariants with gated continuous logic networks. PLDI 2020.
+ - A data-driven CHC solver. PLDI 2018.
+ - Learning invariants using decision trees and implication counterexamples. POPL 2016.
+ 
 ## Code generation
  - Clover: Closed-Loop Verifiable Code Generation. SAIV 2024.
