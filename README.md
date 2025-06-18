@@ -13,7 +13,7 @@
 ## Verus
  - Verus: A Practical Foundation for Systems Verification. SOSP 2024.
  - AutoVerus: Automated Proof Generation for Rust Code. Arxiv 2024.
- - Automated Proof Generation for Rust Code via Self-Evolution. Arxiv 2024. 
+ - Automated Proof Generation for Rust Code via Self-Evolution. ICLR 2025. 
  - AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement. Arxiv 2024.
  - RagVerus: Repository-Level Program Verification with LLMs using Retrieval Augmented Generation. Arxiv 2025. 
 
