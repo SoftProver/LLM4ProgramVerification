@@ -1,6 +1,6 @@
-# LLM for Program Verification Papers
+# LLM-based Program Verification Papers
 
-# Divided by provers/languages
+# Categorized by provers/languages
 
 ## Coq
  - Rango: Adaptive Retrieval-Augmented Proving for Automated Software Verification. ICSE 2025.
@@ -22,7 +22,7 @@
  - (Coq, Lean4, Dafny, ACSL, TLA+) From Informal to Formal – Incorporating and Evaluating LLMs on Natural Language Requirements to Verifiable Formal Proofs. Arxiv 2025.
 
 
-# Divided by topics
+# Categorized by topics
 
 ## Specification
  - nl2spec: Interactively Translating Unstructured Natural Language to Temporal Logics with Large Language Models. CAV 2023.
